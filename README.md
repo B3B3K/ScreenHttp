@@ -67,7 +67,7 @@ The web interface is divided into two main sections:
 
 2. Run the application:
    ```bash
-   python app.py
+   python screenshare2.pyw
    ```
 
 3. Access the application via a web browser at `http://localhost:3131`.
