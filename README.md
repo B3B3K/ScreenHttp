@@ -8,7 +8,7 @@ This project is a Flask-based web application designed to provide a live screen-
 - **Screen Selection**: Choose between available screens to stream live.
 - **Command Console**: Execute shell commands directly through the web page.
 - **Responsive Interface**: A dark-themed, responsive web interface with a left panel for screen feed and a right panel for the command console.
-- **Kill session with /kill page**: Easy exit without any popup.
+- **Kill session with /kill page**: Easy exit without popup.
 ## Libraries Used
 
 ### Flask
