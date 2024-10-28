@@ -73,4 +73,4 @@ The web interface is divided into two main sections:
 3. Access the application via a web browser at `http://localhost:3131`.
 
 4. Use the screen selection dropdown to choose the screen to share. Type commands in the console and press Enter to execute.
-Wrote by ChatGPT
+4. Wrote by ChatGPT
